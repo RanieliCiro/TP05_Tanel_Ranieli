@@ -2,6 +2,7 @@
 
 ## Endpoint usado
 https://pokeapi.co/api/v2/pokemon/{name}
+https://pokeapi.co/api/v2/pokemon/{id}
 
 ## Estructura
 - index.html
